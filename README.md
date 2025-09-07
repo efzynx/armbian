@@ -1,0 +1,1 @@
+# armbian-os-s905x
